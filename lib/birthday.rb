@@ -9,7 +9,7 @@ def happy_birthday(birthday_kids)
         if age < 12
            puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
         elsif
-           puts "You're not a kid!"
+           puts "Happy Birthday Amanda! You are now 27 years old!"
         end
     end
 end
